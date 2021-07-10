@@ -1,0 +1,19 @@
+baseURL= "https://example.com"
+languageCode= "en"
+title= "Hugo PaperMod"
+paginate = 5
+copyright = "All rights reserved - 2021"
+theme = "hugo-PaperMod"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  description = "Welcome to my website"
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = ""
+  author = "RainBoi"
+  authorlocation = "Earth, Milky Way Galaxy"
+  authorwebsite = ""
+  authorbio= ""
+  logo = ""
+  hjsStyle = "default"
+  paginatedsections = ["posts"]
